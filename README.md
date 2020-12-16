@@ -1,5 +1,5 @@
 # NoteBook
-NoteBook is note taking software & a simple text-editing program, developed using Java.
+NoteBook is a note taking software & a simple text-editing program, developed using Java.
 
 # Text area
 
